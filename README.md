@@ -1,6 +1,6 @@
-# pro24
+# pro25
 
 
 project outlink
 
-https://sneha003.github.io/pro24/
+https://sneha003.github.io/project25./
